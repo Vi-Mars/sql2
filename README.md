@@ -57,7 +57,7 @@
 
 
 #### Решение 3
-![sql2-3-3](https://github.com/Vi-Mars/sql2/blob/main/sql2-3-3.jpg)
+![sql2-3-4](https://github.com/Vi-Mars/sql2/blob/main/sql2-3-4.jpg)
 
 
 ### Задание 4
